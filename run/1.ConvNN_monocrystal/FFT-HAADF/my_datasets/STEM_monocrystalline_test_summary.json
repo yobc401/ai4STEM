@@ -1,0 +1,14 @@
+
+    {
+          "data":[{
+  "creation_date": "2020-07-24T19:08:08.430567",
+  "dataset_name": "STEM_monocrystalline",
+  "target_name": "target",
+  "target_categorical": true,
+  "disc_type": null,
+  "n_bins": 100,
+  "path_to_x": "/talos/u/byeo/Work/ai4STEM/main/model/classify/CNN_FFT_total/my_datasets/STEM_monocrystalline_x.pkl",
+  "path_to_y": "/talos/u/byeo/Work/ai4STEM/main/model/classify/CNN_FFT_total/my_datasets/STEM_monocrystalline_y.pkl",
+  "path_to_summary": "/talos/u/byeo/Work/ai4STEM/main/model/classify/CNN_FFT_total/my_datasets/STEM_monocrystalline_summary.json"
+}
+    ] }

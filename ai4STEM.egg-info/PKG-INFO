@@ -1,0 +1,29 @@
+Metadata-Version: 1.1
+Name: ai4STEM
+Version: 0.1
+Summary: supervised learning of STEM data
+Home-page: UNKNOWN
+Author: Byung Chul, Yeo
+Author-email: yeo@fhi-berlin.mpg.de
+License: Apache License 2.0
+Description: Welcome to ai4materials's README
+        ========================================
+        
+        ai4materials allows to perform complex analysis of materials science data, using machine learning and compressed sensing techniques. It also
+        provide functions to pre-process (on parallel processors), save and subsequently load materials science datasets,
+        thus easing the traceability, reproducibility, and prototyping of new models.
+        
+        On the left panel, you can find a few examples that showcase what ai4materials can do.
+        
+        Extensive documentation can be found here: https://ai4materials.readthedocs.io/en/latest/
+        
+        Code author: Angelo Ziletti, Ph.D. (angelo.ziletti@gmail.com; ziletti@fhi-berlin.mpg.de)
+        
+        
+Keywords: Data analytics of materials science data.
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Materials science :: Machine learning :: Compress sensing :: Data analytics
+Classifier: License :: Apache Licence 2.0
+Classifier: Programming Language :: Python :: 3.5
